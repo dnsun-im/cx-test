@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>caredx-utilities</groupId>
-	<artifactId>caredx-utilities</artifactId>
+	<groupId>cx-test</groupId>
+	<artifactId>cx-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>caredx-utilities</name>
+	<name>cx-test</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -59,7 +59,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.caredx.utilities.careevolve.ExpiredOrdersReportFormatter</mainClass>
+							<mainClass>com.cxtest.ExpiredOrdersReportFormatter</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>

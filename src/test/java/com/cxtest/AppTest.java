@@ -1,4 +1,4 @@
-package com.caredx.careevolve.connect;
+package com.cxtest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
